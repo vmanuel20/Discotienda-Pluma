@@ -1,0 +1,7 @@
+Reporte de discos
+=================
+Nombre: [Hung Up, Get Together, Sorry]Aritsta: MadonnaGenero: PopDiscos Costosos: 3600.0
+Nombre: [Galvanize, The Boxer, Believe]Aritsta: The Chemical BrothersGenero: ElectrónicaDiscos Costosos: 4050.0
+Nombre: [Is This It, The Modern Age, Soma]Aritsta: The StrokesGenero: RockDiscos Costosos: 3600.0
+Nombre: [Seven Nation Army, Black Math]Aritsta: The White StripesGenero: RockDiscos Costosos: 2600.0
+Nombre: [Se me sigue olvidando, Hasta ayer]Aritsta: Marc AnthonyGenero: SalsaDiscos Costosos: 10.0

@@ -1,0 +1,6 @@
+reporte de Discos
+==================
+Nombre:Confessions on a Dance Floor
+Artista:Madonna
+genero:Pop
+precio:3600.0
